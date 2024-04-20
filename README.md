@@ -1,7 +1,7 @@
 # Register NFT Artwork
 
 <p >
-  <img src="./../Images/RegNFT.jpg"/ width = 900 height = 400>
+  <img src="./Images/RegNFT.jpg"/ width = 900 height = 400>
 </p>
 
 ## Building the Mint-Condition Artwork BackEnd
@@ -20,5 +20,5 @@ Compiling and deploying the ArtToken contract by using the Remix IDE, MetaMask, 
 
 ## Front End Display Of Artwork Registry
 
-![](./../Images/reg.png)
-![](./../Images/display.png)
+![](./Images/reg.png)
+![](./Images/display.png)
